@@ -1,0 +1,2 @@
+1) extract the "snake-game code" folder 
+2) run --> snake-astar.py file 
